@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'hytmr';
+  src: url('../font/HYTangMeiRenW.eot');
+  src: local('../font/HYTangMeiRenW. Regular'),
+  local('../font/HYTangMeiRenW.'),
+  url('../font/HYTangMeiRenW.woff') format('woff'),
+  url('../font/HYTangMeiRenW.ttf') format('truetype'),
+  url('../font/HYTangMeiRenW.svg') format('svg');
+}
